@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IRISEL_website-home/static/css/main.ed4feb45.css",
-    "main.js": "/IRISEL_website-home/static/js/main.afb6d5a5.js",
+    "main.js": "/IRISEL_website-home/static/js/main.969f92da.js",
     "static/js/453.d85580f4.chunk.js": "/IRISEL_website-home/static/js/453.d85580f4.chunk.js",
     "static/media/pic114006.png": "/IRISEL_website-home/static/media/pic114006.b40b04296a0be6b150c2.png",
     "static/media/pic114004.png": "/IRISEL_website-home/static/media/pic114004.f8ec8984bae158834814.png",
@@ -25,11 +25,11 @@
     "static/media/piciconCAR.png": "/IRISEL_website-home/static/media/piciconCAR.96c73cb49987ccdf1154.png",
     "index.html": "/IRISEL_website-home/index.html",
     "main.ed4feb45.css.map": "/IRISEL_website-home/static/css/main.ed4feb45.css.map",
-    "main.afb6d5a5.js.map": "/IRISEL_website-home/static/js/main.afb6d5a5.js.map",
+    "main.969f92da.js.map": "/IRISEL_website-home/static/js/main.969f92da.js.map",
     "453.d85580f4.chunk.js.map": "/IRISEL_website-home/static/js/453.d85580f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ed4feb45.css",
-    "static/js/main.afb6d5a5.js"
+    "static/js/main.969f92da.js"
   ]
 }
