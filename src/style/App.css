@@ -1,0 +1,39 @@
+@import url("./normalize.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
+
+.horizontally{
+  display: flex;
+}
+
+.vertical{
+  display: flex;
+  flex-direction: column;
+}
+
+.verticalCenter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.verticalEnd{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.horizontallyCenter{
+  display: flex;
+  justify-content: center;
+}
+
+.horizontallySpaceBetween{
+  display: flex;
+  justify-content: space-between;
+}
+
+.noBullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
